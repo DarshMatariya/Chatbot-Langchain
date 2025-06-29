@@ -27,21 +27,21 @@ Langchain-Chatbot/
 
 ### How to run ?
 
-1. Clone the repository:  
+### 1. Clone the repository:  
    git clone https://github.com/DarshMatariya/Chatbot-Langchain.git
 
-2. Create virtual environment:
+### 2. Create virtual environment:
   python -m venv venv
   source venv/bin/activate    # on Linux/macOS
   venv\Scripts\activate       # on Windows
 
-3. Install Requirements:
+### 3. Install Requirements:
   pip install -r requirements.txt
 
-4. API Key Setup:
+### 4. API Key Setup:
    GOOGLE_API_KEY=your-api-key-here
 
-5.Run chatbot.py file:
+### 5.Run chatbot.py file:
   streamlit run chatbot.py
 
 ## Tech Stack
