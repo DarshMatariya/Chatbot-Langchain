@@ -46,10 +46,11 @@ Langchain-Chatbot/
 
 ## Tech Stack
 
-Python 3.10+
-LangChain
-Gemin API
-dotenv for secrets management
+- Python 3.10+
+- LangChain
+- Gemin API
+- dotenv for secrets management
+
 
 
 Feel free to open issues or submit pull requests for improvements.
